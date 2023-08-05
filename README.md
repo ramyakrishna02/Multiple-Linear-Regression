@@ -27,7 +27,7 @@ The goal of multiple linear regression is to model the linear relationship betwe
 ## Packages Used
 - Pandas
 - Numpy
-- Matplotlib.pyplot
+- Matplotlib
 - Seaborn
 - Statsmodels
 - Warnings
